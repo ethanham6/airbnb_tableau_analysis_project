@@ -6,7 +6,7 @@ An interactive Tableau dashboard that explores how Airbnb listing prices, unit s
 
 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/ethan.ham7063/viz/AirBnBAnalysisProject_17928014209490/Dashboard1)**
 
-![Dashboard preview]([images/dashboard.png](https://github.com/ethanham6/airbnb_tableau_analysis_project#:~:text=now-,Dashboard%201.png,-Add%20files%20via)
+![Dashboard preview]((https://github.com/ethanham6/airbnb_tableau_analysis_project/blob/main/Dashboard%201.png))
 
 ## The questions
 
