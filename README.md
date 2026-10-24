@@ -6,7 +6,6 @@ An interactive Tableau dashboard that explores how Airbnb listing prices, unit s
 
 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/ethan.ham7063/viz/AirBnBAnalysisProject_17928014209490/Dashboard1)**
 
-![Dashboard preview]((https://github.com/ethanham6/airbnb_tableau_analysis_project/blob/main/Dashboard%201.png))
 
 ## The questions
 
@@ -70,6 +69,3 @@ Tableau Public and Excel
 - Add filters for property type and room type
 - Run the same analysis in SQL to cross-check the Tableau results
 - Test whether review scores and host status relate to price
-
-
-    └── AirBnB_Analysis_Project.twbx
